@@ -10,7 +10,18 @@
 - 💬 **Ask Me About**: Anything!  
 - 📫 **Reach Me At**: [GitHub](https://github.com/ngomharion04) | [LinkedIn](https://www.linkedin.com/in/mharion-ngo/)  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: I have a skydiving license!  
+- ⚡ **Fun Fact**: I have a skydiving license!
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| Python    |
+|     3| C         |
+
+</details>
 
 ### Let's Connect!  
 I'm always looking for exciting projects to work on and people to learn from. Feel free to reach out!  
