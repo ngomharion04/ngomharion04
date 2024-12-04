@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mharion
 
-![LinkedIn Profile Picture]([https://your-linkedin-image-url-here](https://www.linkedin.com/in/mharion-ngo/)  
+![LinkedIn Profile Picture](https://media.licdn.com/dms/image/v2/D4E03AQEjf_3E1v8_7A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723592354723?e=1738800000&v=beta&t=XVcuMpcTIrC-BH0XQGScUbC8HcioYyLSjCxgoz79Drs)  
 
 ## About Me  
 - 🔭 **Currently Working On**: An Affirmation App  
@@ -8,7 +8,7 @@
 - 👯 **Open to Collaborate On**: Coding projects  
 - 🤔 **Looking for Help With**: Backend development  
 - 💬 **Ask Me About**: Anything!  
-- 📫 **Reach Me At**: [GitHub]([https://github.com/your-username](https://github.com/ngomharion04) | [LinkedIn](www.linkedin.com/in/mharion-ngo)  
+- 📫 **Reach Me At**: [GitHub](https://github.com/ngomharion04) | [LinkedIn](https://www.linkedin.com/in/mharion-ngo/)  
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun Fact**: I have a skydiving license!  
 
