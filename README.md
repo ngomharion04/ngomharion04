@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mharion
 
-![LinkedIn Profile Picture](https://media.licdn.com/dms/image/v2/D4E03AQEjf_3E1v8_7A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723592354723?e=1738800000&v=beta&t=XVcuMpcTIrC-BH0XQGScUbC8HcioYyLSjCxgoz79Drs)  
+![LinkedIn Profile Picture](https://media.licdn.com/dms/image/v2/D4E03AQEjf_3E1v8_7A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723592354723?e=1746057600&v=beta&t=JSay3KOXLYZj3DpcoCU5x0xfxhf3wdjtoGBLx5UM1M4)  
 
 ## About Me  
 - 🔭 **Currently Working On**: An Affirmation App  
